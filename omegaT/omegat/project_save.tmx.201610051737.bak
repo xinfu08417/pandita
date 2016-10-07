@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="BO"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="BO">
+        <seg>གཟུགས མེད ཉེར འགྲོའི ཕྱིར མི འོང སྐྱེས འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="yenli" changedate="20161005T023549Z" creationid="yenli" creationdate="20161005T023549Z">
+        <seg>行無色不還生般、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དེ ལ དབྱེ ན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="yenli" changedate="20161005T023456Z" creationid="yenli" creationdate="20161005T023456Z">
+        <seg>此可分為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདུ བྱེད དང བཅས ཏེ འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="yenli" changedate="20161005T093525Z" creationid="yenli" creationdate="20161005T093525Z">
+        <seg>有行般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདུ བྱེད མེད པར འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="yenli" changedate="20161005T093541Z" creationid="yenli" creationdate="20161005T093541Z">
+        <seg>無行般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདོད པའི རྟེན ཅན གྱི ཕྱིར མི འོང གང ཞིག གཟུགས སུ སྐྱེ བ མ བླངས པར གཟུགས མེད ཀྱི རྟེན ལ མྱང འདས མངོན དུ བྱེད པའི རིགས ཅན དེ གཟུགས མེད ཉེར འགྲོའི ཕྱིར མི འོང གི འཇོག བྱེད།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="yenli" changedate="20161005T023410Z" creationid="yenli" creationdate="20161005T023158Z">
+        <seg>欲界所依不還，不受取色界，於無色所依證涅槃之品類者，
+是行無色不還之能安立。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
